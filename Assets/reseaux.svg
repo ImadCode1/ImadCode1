@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="38" viewBox="0 0 760 38" role="img">
+<style>
+.p{fill:#f5f5f7;stroke:#d2d2d7;stroke-width:1}
+.t{fill:#1d1d1f;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Helvetica,Arial,sans-serif;font-size:13.5px;font-weight:500;text-anchor:middle;dominant-baseline:central}
+@media (prefers-color-scheme: dark){.p{fill:#1c1c1e;stroke:#3a3a3c}.t{fill:#f5f5f7}}
+</style>
+<rect class="p" x="26.0" y="2" width="82" height="34" rx="11" ry="11"/>
+<text class="t" x="67.0" y="19.5">CCNA 1</text>
+<rect class="p" x="118.0" y="2" width="82" height="34" rx="11" ry="11"/>
+<text class="t" x="159.0" y="19.5">TCP/IP</text>
+<rect class="p" x="210.0" y="2" width="59" height="34" rx="11" ry="11"/>
+<text class="t" x="239.5" y="19.5">DNS</text>
+<rect class="p" x="279.0" y="2" width="59" height="34" rx="11" ry="11"/>
+<text class="t" x="308.5" y="19.5">VPN</text>
+<rect class="p" x="348.0" y="2" width="74" height="34" rx="11" ry="11"/>
+<text class="t" x="385.0" y="19.5">Linux</text>
+<rect class="p" x="432.0" y="2" width="89" height="34" rx="11" ry="11"/>
+<text class="t" x="476.5" y="19.5">Windows</text>
+<rect class="p" x="531.0" y="2" width="127" height="34" rx="11" ry="11"/>
+<text class="t" x="594.5" y="19.5">Raspberry Pi</text>
+<rect class="p" x="668.0" y="2" width="66" height="34" rx="11" ry="11"/>
+<text class="t" x="701.0" y="19.5">GPIO</text>
+</svg>

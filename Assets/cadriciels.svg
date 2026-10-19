@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="82" viewBox="0 0 760 82" role="img">
+<style>
+.p{fill:#f5f5f7;stroke:#d2d2d7;stroke-width:1}
+.t{fill:#1d1d1f;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Helvetica,Arial,sans-serif;font-size:13.5px;font-weight:500;text-anchor:middle;dominant-baseline:central}
+@media (prefers-color-scheme: dark){.p{fill:#1c1c1e;stroke:#3a3a3c}.t{fill:#f5f5f7}}
+</style>
+<rect class="p" x="42.0" y="2" width="74" height="34" rx="11" ry="11"/>
+<text class="t" x="79.0" y="19.5">React</text>
+<rect class="p" x="126.0" y="2" width="89" height="34" rx="11" ry="11"/>
+<text class="t" x="170.5" y="19.5">Next.js</text>
+<rect class="p" x="225.0" y="2" width="112" height="34" rx="11" ry="11"/>
+<text class="t" x="281.0" y="19.5">Express.js</text>
+<rect class="p" x="347.0" y="2" width="104" height="34" rx="11" ry="11"/>
+<text class="t" x="399.0" y="19.5">.NET MAUI</text>
+<rect class="p" x="461.0" y="2" width="120" height="34" rx="11" ry="11"/>
+<text class="t" x="521.0" y="19.5">Spring Boot</text>
+<rect class="p" x="591.0" y="2" width="127" height="34" rx="11" ry="11"/>
+<text class="t" x="654.5" y="19.5">Tailwind CSS</text>
+<rect class="p" x="114.5" y="46" width="104" height="34" rx="11" ry="11"/>
+<text class="t" x="166.5" y="63.5">shadcn/ui</text>
+<rect class="p" x="228.5" y="46" width="74" height="34" rx="11" ry="11"/>
+<text class="t" x="265.5" y="63.5">Clerk</text>
+<rect class="p" x="312.5" y="46" width="97" height="34" rx="11" ry="11"/>
+<text class="t" x="361.0" y="63.5">Mongoose</text>
+<rect class="p" x="419.5" y="46" width="150" height="34" rx="11" ry="11"/>
+<text class="t" x="494.5" y="63.5">Jetpack Compose</text>
+<rect class="p" x="579.5" y="46" width="66" height="34" rx="11" ry="11"/>
+<text class="t" x="612.5" y="63.5">Room</text>
+</svg>

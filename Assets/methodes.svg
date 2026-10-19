@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="82" viewBox="0 0 760 82" role="img">
+<style>
+.p{fill:#f5f5f7;stroke:#d2d2d7;stroke-width:1}
+.t{fill:#1d1d1f;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Segoe UI",Helvetica,Arial,sans-serif;font-size:13.5px;font-weight:500;text-anchor:middle;dominant-baseline:central}
+@media (prefers-color-scheme: dark){.p{fill:#1c1c1e;stroke:#3a3a3c}.t{fill:#f5f5f7}}
+</style>
+<rect class="p" x="106.5" y="2" width="97" height="34" rx="11" ry="11"/>
+<text class="t" x="155.0" y="19.5">API REST</text>
+<rect class="p" x="213.5" y="2" width="150" height="34" rx="11" ry="11"/>
+<text class="t" x="288.5" y="19.5">Tests unitaires</text>
+<rect class="p" x="373.5" y="2" width="59" height="34" rx="11" ry="11"/>
+<text class="t" x="403.0" y="19.5">UML</text>
+<rect class="p" x="442.5" y="2" width="135" height="34" rx="11" ry="11"/>
+<text class="t" x="510.0" y="19.5">Agile / Scrum</text>
+<rect class="p" x="587.5" y="2" width="66" height="34" rx="11" ry="11"/>
+<text class="t" x="620.5" y="19.5">MVVM</text>
+<rect class="p" x="259.5" y="46" width="241" height="34" rx="11" ry="11"/>
+<text class="t" x="380.0" y="63.5">Architecture client-serveur</text>
+</svg>
