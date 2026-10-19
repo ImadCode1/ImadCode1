@@ -17,6 +17,10 @@
 <br>
 <br>
 
+<img src="Assets/terminal.svg" alt="Terminal : Imadeddine Aït Benhammou, étudiant en génie logiciel, disponible pour un stage" width="760">
+
+<br>
+
 **À la recherche d'un stage en développement logiciel.**
 
 <br>
@@ -81,51 +85,23 @@ Système embarqué sur Raspberry Pi qui contrôle l'ouverture d'une porte d'aér
 
 ## Technologies
 
-<div align="center">
-
 **Langages**
-
-<img src="Assets/langages.svg" alt="Java, Kotlin, C#, Rust, Python, JavaScript, HTML / CSS">
-
-<br>
+`Java` `Kotlin` `C#` `Rust` `Python` `JavaScript` `HTML / CSS`
 
 **Cadriciels et bibliothèques**
-
-<img src="Assets/cadriciels.svg" alt="React, Next.js, Express.js, .NET MAUI, Spring Boot, Tailwind CSS, shadcn/ui, Clerk, Mongoose, Jetpack Compose, Room">
-
-<br>
+`React` `Next.js` `Express.js` `.NET MAUI` `Spring Boot` `Tailwind CSS` `shadcn/ui` `Clerk` `Mongoose` `Jetpack Compose` `Room`
 
 **Bases de données**
-
-<img src="Assets/bases-de-donnees.svg" alt="MongoDB, MySQL, PostgreSQL, Firebase, SQL Developer">
-
-<br>
+`MongoDB` `MySQL` `PostgreSQL` `Firebase` `SQL Developer`
 
 **Outils et plateformes**
-
-<img src="Assets/outils.svg" alt="Git, Docker, Microsoft Azure, Unity, Figma, VirtualBox">
-
-<br>
+`Git` `Docker` `Microsoft Azure` `Unity` `Figma` `VirtualBox`
 
 **Réseaux et systèmes**
-
-<img src="Assets/reseaux.svg" alt="CCNA 1, TCP/IP, DNS, VPN, Linux, Windows, Raspberry Pi, GPIO">
-
-<br>
+`CCNA 1` `TCP/IP` `DNS` `VPN` `Linux` `Windows` `Raspberry Pi` `GPIO`
 
 **Méthodes et conception**
-
-<img src="Assets/methodes.svg" alt="API REST, Tests unitaires, UML, Agile / Scrum, MVVM, Architecture client-serveur">
-
-</div>
-
-<br>
-
----
-
-<br>
-
----
+`API REST` `OAuth/JWT` `Tests unitaires` `UML` `Agile / Scrum` `MVVM` `Architecture client-serveur`
 
 <br>
 
@@ -142,11 +118,3 @@ Agile et Scrum, UML, API REST, OAuth/JWT, objets connectés et infonuagique.
 Tutorat individuel et en classe : théorie, programmation et débogage.
 
 **Certification** Cisco CCNA 1, introduction aux réseaux.
-
-<br>
-
-<div align="center">
-
-*Français : excellent. Anglais : intermédiaire.*
-
-</div>
